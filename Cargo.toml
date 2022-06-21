@@ -1,0 +1,14 @@
+[package]
+name = "pneumatic"
+version = "0.1.0"
+edition = "2021"
+authors = ["Chris Kahn"]
+license = "GPL-3.0-or-later"
+repository = "https://github.com/kahnclusions/pneumatic"
+homepage = "https://github.com/kahnclusions/pneumatic"
+description = "wip"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
